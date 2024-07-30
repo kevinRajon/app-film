@@ -2,7 +2,7 @@
 
 Pour mettre en pratique les compétences acquises au cours de ma formation, j'ai créé une application web utilisant une base de données publique.<br/>
 Cette application permet de sélectionner des films de manière aléatoire parmi les mieux notés et les plus populaires de la base de données TMDB.<br/>
-Elle répond à une question que l'on se pose souvent : "Qu'est-ce qu'on regarde ce soir ?" sans avoir à effectuer de tri ou à naviguer sur différents sites internet.<br/>
+Elle répond à une question que l'on se pose souvent : "On regarde quoi ce soir ?" sans avoir à effectuer de tri ou à naviguer sur différents sites internet.<br/>
 
 **Vous pouvez tester l'application [ICI](https://kevinrajon.fr/film)**
 
